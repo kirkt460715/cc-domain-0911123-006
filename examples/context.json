@@ -1,0 +1,29 @@
+{
+  "synthetic": true,
+  "calendar": {
+    "version": "local-1",
+    "offset": "+08:00",
+    "weekdays": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "open": "09:00",
+    "close": "17:00",
+    "holidays": [
+      "2026-11-06"
+    ]
+  },
+  "records": [
+    {
+      "case_id": "closed",
+      "created": "2026-11-05T08:00:00Z"
+    },
+    {
+      "case_id": "waiting",
+      "created": "2026-11-05T08:01:00Z"
+    }
+  ]
+}
